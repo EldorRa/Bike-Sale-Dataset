@@ -1,5 +1,5 @@
 # Bike-Sale-Dataset
-Bike Sales Datasets
+Bike Sales Dataset
 
 In this project, undertook a comprehensive analysis of Bike Sales data, meticulously documenting my progress. This endeavor was not only instructive but also a testament to the analytical skills honed during my academic pursuits at the Tashkent State University of Economics.
 
